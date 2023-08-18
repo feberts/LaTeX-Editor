@@ -2,4 +2,4 @@
 
 * **Hallo-LaTeX:** [feberts.github.io/LaTeX-Editor/Hallo-LaTeX](http://feberts.github.io/LaTeX-Editor/Hallo-LaTeX)
 * **Minimalbeispiel:** [feberts.github.io/LaTeX-Editor/Minimalbeispiel](http://feberts.github.io/LaTeX-Editor/Minimalbeispiel)
-* * **Minimalbeispiel:** [feberts.github.io/LaTeX-Editor/test](http://feberts.github.io/LaTeX-Editor/test)
+* **Minimalbeispiel:** [feberts.github.io/LaTeX-Editor/test](http://feberts.github.io/LaTeX-Editor/test)
