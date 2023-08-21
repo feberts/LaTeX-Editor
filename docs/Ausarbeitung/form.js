@@ -30,16 +30,19 @@ function print_form()
     // generate input fields:
     for(const ph of config_placeholders)
     {
+        let ph_text = ph.replaceAll('_', '\\'); // demask backslashes
+
         if(/^.+ $/.test(ph)) // text area input (string ends with whitespace)
         {
             console.log("form: textarea");
-            let ph_text = ph.replaceAll(/ $/g, ''); // remove trailing whitespace
+            ph_text = ph_text.replaceAll(/ $/g, ''); // remove trailing whitespace
+            ph_text = ph_text.replaceAll(/\\\\ */g, '\\\\\n'); // add line breaks
             document.write('<textarea name="' + ph + '" rows="5" required>' + ph_text + '</textarea><br><br>');
         }
         else // line input
         {
             console.log("form: text");
-            document.write('<input type="text" name="' + ph + '" value="' + ph + '" required><br><br>');
+            document.write('<input type="text" name="' + ph + '" value="' + ph_text + '" required><br><br>');
         }
     }
 
