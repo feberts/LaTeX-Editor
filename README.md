@@ -1,4 +1,6 @@
-# LaTeX-Vorlagen
+# LaTeX-Editor
+
+Vorlagen im Online-Editor bearbeiten und kompilieren:
 
 * **Abschlussarbeit:** [feberts.github.io/LaTeX-Editor/Abschlussarbeit](https://feberts.github.io/LaTeX-Editor/Abschlussarbeit)
 * **Anschreiben:** [feberts.github.io/LaTeX-Editor/Anschreiben](https://feberts.github.io/LaTeX-Editor/Anschreiben)
