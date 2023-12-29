@@ -8,3 +8,7 @@
 * **Minimalbeispiel:** [feberts.github.io/LaTeX-Editor/Minimalbeispiel](https://feberts.github.io/LaTeX-Editor/Minimalbeispiel)
 
 Anleitung für die lokale Installation von LaTeX auf dem PC: [LaTeX-Install.md](./LaTeX-Install.md)
+
+### About
+
+The purpose of this repository is to host the web application and to make the LaTeX templates available. The source code and the templates are maintained in a separate repository: [github.com/feberts/LaTeX-Editor-source](https://github.com/feberts/LaTeX-Editor-source)
