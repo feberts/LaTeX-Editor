@@ -1,13 +1,13 @@
 # LaTeX-Editor
 
-Vorlagen im Online-Editor bearbeiten und kompilieren:
+Edit and compile templates in the online editor:
 
 * **Abschlussarbeit:** [feberts.github.io/LaTeX-Editor/Abschlussarbeit](https://feberts.github.io/LaTeX-Editor/Abschlussarbeit)
 * **Ausarbeitung:** [feberts.github.io/LaTeX-Editor/Ausarbeitung](https://feberts.github.io/LaTeX-Editor/Ausarbeitung)
-* **Hallo-LaTeX:** [feberts.github.io/LaTeX-Editor/Hallo-LaTeX](https://feberts.github.io/LaTeX-Editor/Hallo-LaTeX)
+* **Hello-LaTeX:** [feberts.github.io/LaTeX-Editor/Hello-LaTeX](https://feberts.github.io/LaTeX-Editor/Hello-LaTeX)
 * **Konferenzseminar:** [feberts.github.io/LaTeX-Editor/Konferenzseminar](https://feberts.github.io/LaTeX-Editor/Konferenzseminar)
 
-Anleitung für die lokale Installation von LaTeX auf dem PC: [LaTeX-Install.md](./LaTeX-Install.md)
+Instructions for installing LaTeX locally on the PC: [LaTeX-Install.md](./LaTeX-Install.md)
 
 ### About
 
