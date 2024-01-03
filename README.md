@@ -7,7 +7,7 @@ Edit and compile templates in the online editor:
 * **Hello-LaTeX:** [feberts.github.io/LaTeX-Editor/Hello-LaTeX](https://feberts.github.io/LaTeX-Editor/Hello-LaTeX)
 * **Konferenzseminar:** [feberts.github.io/LaTeX-Editor/Konferenzseminar](https://feberts.github.io/LaTeX-Editor/Konferenzseminar)
 
-Instructions for installing LaTeX locally on the PC: [LaTeX-Install.md](./LaTeX-Install.md)
+See `LaTeX-Install` for installing LaTeX locally on the PC.
 
 ### About
 
