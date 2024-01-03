@@ -1,6 +1,6 @@
 # LaTeX-Editor
 
-Edit and compile templates in the online editor:
+Edit and compile templates using the online editor:
 
 * **Abschlussarbeit:** [feberts.github.io/LaTeX-Editor/Abschlussarbeit](https://feberts.github.io/LaTeX-Editor/Abschlussarbeit)
 * **Ausarbeitung:** [feberts.github.io/LaTeX-Editor/Ausarbeitung](https://feberts.github.io/LaTeX-Editor/Ausarbeitung)
