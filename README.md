@@ -6,6 +6,7 @@ Edit and compile templates using the online editor:
 * **Ausarbeitung:** [feberts.github.io/LaTeX-Editor/Ausarbeitung](https://feberts.github.io/LaTeX-Editor/Ausarbeitung)
 * **Hello-LaTeX:** [feberts.github.io/LaTeX-Editor/Hello-LaTeX](https://feberts.github.io/LaTeX-Editor/Hello-LaTeX)
 * **Konferenzseminar:** [feberts.github.io/LaTeX-Editor/Konferenzseminar](https://feberts.github.io/LaTeX-Editor/Konferenzseminar)
+* **Poster-Beispiel:** [feberts.github.io/LaTeX-Editor/Poster-Beispiel](https://feberts.github.io/LaTeX-Editor/Poster-Beispiel)
 * **Poster:** [feberts.github.io/LaTeX-Editor/Poster](https://feberts.github.io/LaTeX-Editor/Poster)
 
 See `LaTeX-Install` for installing LaTeX locally on the PC.
